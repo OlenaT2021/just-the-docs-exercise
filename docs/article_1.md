@@ -1,3 +1,8 @@
+---
+title: article1
+layout: default
+---
+
 The global economy has yet to turn the corner
 
 The World Bank
