@@ -1,6 +1,7 @@
 ---
 title: exercise
 layout: default
+parent: hometask
 nav_order: 4
 ---
 
