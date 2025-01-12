@@ -1,7 +1,7 @@
 ---
 title: test article
 layout: default
-parent: hometask
+parent: Global economy
 nav_order: 2
 ---
 

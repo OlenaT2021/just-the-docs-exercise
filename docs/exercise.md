@@ -1,7 +1,7 @@
 ---
 title: exercise
 layout: default
-parent: hometask
+parent: Global economy
 nav_order: 1
 ---
 
