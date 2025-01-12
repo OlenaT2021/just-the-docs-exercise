@@ -1,3 +1,8 @@
+---
+title: xercise2
+layout: default
+---
+
 # Contents <!-- omit in toc -->
 
 - [Visual elements](#visual-elements)
