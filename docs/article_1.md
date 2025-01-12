@@ -1,5 +1,5 @@
 ---
-title: article1
+title: Global economy
 layout: default
 nav_order: 3
 ---
