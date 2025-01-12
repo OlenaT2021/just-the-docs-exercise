@@ -1,5 +1,5 @@
 ---
-title: exercise2
+title: exercise
 layout: default
 nav_order: 4
 ---
