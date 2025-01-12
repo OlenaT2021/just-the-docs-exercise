@@ -1,6 +1,7 @@
 ---
 title: article1
 layout: default
+nav_order: 3
 ---
 
 The global economy has yet to turn the corner
