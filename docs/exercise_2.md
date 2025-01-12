@@ -1,6 +1,7 @@
 ---
 title: exercise2
 layout: default
+nav_order: 4
 ---
 
 # Contents <!-- omit in toc -->
