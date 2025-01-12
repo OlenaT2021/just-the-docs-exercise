@@ -1,6 +1,8 @@
 title: Just the Docs exercise
 description: My first exercise in Just the Docs!
 theme: just-the-docs
+color_scheme: dark
+favicon_ico: "/images/favicon.png"
 
 url: https://OlenaT2021.github.io/Just-the-docs
 
