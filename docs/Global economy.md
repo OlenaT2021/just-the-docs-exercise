@@ -5,19 +5,21 @@ nav_order: 3
 has_children: true
 ---
 
-The global economy has yet to turn the corner
+## The global economy has yet to turn the corner
 
 The World Bank
+
 2 348 474 followers
 
 
-January 17, 2024
-By Indermit Gil & M. Ayhan Kose 
+*January 17, 2024*
+*By Indermit Gil & M. Ayhan Kose*
+
 As 2024 begins, the outlook for the global economy seems to be **improving**. Major economies are emerging mostly unscathed from the fastest rise in interest rates in 40 years, without the usual scars of financial crashes or high unemployment. Countries rarely succeed in taming steep inflation rates without triggering a recession. Yet a “soft landing” is now becoming more likely. Not surprisingly, financial markets are in a celebratory mood. 
 
-But caution is in order. The World Bank’s latest Global Economic Prospects indicates that most economies—developed as well as developing—will grow much more slowly in 2024 and 2025 than they did in the decade before COVID-19. Global growth is expected to decelerate for a third year in a row, to 2,4 %, before ticking up to 2,7 % in 2025.  Per capita investment growth in 2023 and 2024 is expected to average just 3,7 %, barely half the average of the previous two decades. 
+**But caution is in order.** The World Bank’s latest Global Economic Prospects indicates that most economies—developed as well as developing—will grow much more slowly in 2024 and 2025 than they did in the decade before COVID-19. Global growth is expected to decelerate for a third year in a row, to 2,4 %, before ticking up to 2,7 % in 2025.  Per capita investment growth in 2023 and 2024 is expected to average just 3,7 %, barely half the average of the previous two decades. 
 
-The 2020s are shaping up to be an era of wasted opportunity.  The end of 2024 will mark the halfway point of what was supposed to be a transformative decade for development—when extreme poverty was to be eliminated, major communicable diseases eradicated, and greenhouse gas emissions nearly halved. What looms instead is a wretched milestone: the weakest global growth performance of any half-decade since 1990, with people in one out of every four developing economies ending up poorer than they were before the pandemic. 
+**The 2020s are shaping up to be an era of wasted opportunity.**  The end of 2024 will mark the halfway point of what was supposed to be a transformative decade for development—when extreme poverty was to be eliminated, major communicable diseases eradicated, and greenhouse gas emissions nearly halved. What looms instead is a wretched milestone: the weakest global growth performance of any half-decade since 1990, with people in one out of every four developing economies ending up poorer than they were before the pandemic. 
 
 Feeble economic growth threatens to undercut many global imperatives and make it harder for developing economies to generate the investment needed to tackle climate change, improve health and education, and achieve other key priorities. It would leave the poorest economies stuck with paralyzing debt burdens. It would prolong the misery of the nearly one in three people in developing countries who suffer food insecurity. And it would amount to a historic failure: a lost decade not just for a few countries, but for the world. 
 
@@ -37,4 +39,4 @@ So far, the 2020-s have been a period of broken promises. Governments have falle
 
  
 
-This article is a repost from Project Syndicate, first published on January 10, 2024
+*This article is a repost from Project Syndicate, first published on January 10, 2024*
