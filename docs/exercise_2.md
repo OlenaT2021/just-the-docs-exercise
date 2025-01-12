@@ -1,5 +1,5 @@
 ---
-title: xercise2
+title: exercise2
 layout: default
 ---
 
