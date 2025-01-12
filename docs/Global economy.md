@@ -1,3 +1,10 @@
+---
+title: Global economy
+layout: default
+nav_order: 3
+has_children: true
+---
+
 The global economy has yet to turn the corner
 
 The World Bank

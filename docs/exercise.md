@@ -1,3 +1,10 @@
+---
+title: exercise
+layout: default
+parent: hometask
+nav_order: 1
+---
+
 # Contents <!-- omit in toc -->
 
 - [Visual elements](#visual-elements)
